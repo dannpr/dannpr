@@ -8,9 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning react and more on EVM (deep diving). 
 - 💬 Ask me about NFT and blockchain stuff.
 - ⚡ Fun fact: I'm an OTAKU. 
-
-<details> 
-  <div>
+<div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
     </p>
   </samp>
 </div>
-  
+<details>
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
