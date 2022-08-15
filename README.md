@@ -9,9 +9,31 @@ Here are some ideas to get you started:
 - 💬 Ask me about NFT and blockchain stuff.
 - ⚡ Fun fact: I'm an OTAKU. 
 
-
-- 📫 How to reach me: ...
 <details> 
+  <div>
+  <samp>
+    <h2 align="center">😎 you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/danny-ba-aa38771b7/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="dann" height="30"/></a>
+      <a href="mailto:contact@polyblocks.xyz" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="dann" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://twitter.com/dannyba10" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://t.me/Dannprinc" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+  
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
